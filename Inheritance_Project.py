@@ -61,9 +61,9 @@ class CheckingAccount(BankAccount):
 
 
 if __name__ == "__main__":
-    account1 = BankAccount("John Doe", 1000.0)
-    account2 = SavingsAccount("Jane Smith", 500.0, interest_rate=0.03)
-    account3 = CheckingAccount("Alice Johnson", 2000.0, withdrawal_limit=1000)
+    account1 = BankAccount("M Asik", 1000.0)
+    account2 = SavingsAccount("Motasem", 500.0, interest_rate=0.03)
+    account3 = CheckingAccount("Billah", 2000.0, withdrawal_limit=1000)
 
     account1.deposit(200)
     account1.withdraw(100)
