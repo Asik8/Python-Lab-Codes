@@ -1,5 +1,4 @@
-# This Function controls what should be return when the class object 
-# is represented as a string.
+# This Function controls what should be return when the class object is represented as a string.
 
 class person: # Class
     def __init__(self,name,number,age,gender): # Constructor
