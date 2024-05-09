@@ -1,3 +1,5 @@
+# evelop a system for managing personnel in a school, including teachers, administrators, and support staff. Implement a base class Person with attributes like name and age, and then create subclasses such as Teacher, Principal, and Janitor, each inheriting from the Person class and adding role-specific attributes and methods.
+
 class Person:
     def __init__(self, name, age):
         self.name = name
