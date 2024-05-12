@@ -1,4 +1,4 @@
-# Design a system for classifying animals into different categories such as Mammal, Bird, Reptile, and Fish. Implement a base class Animal with common attributes like name and species, and then create subclass named Classification, inheriting from the Animal class. Print all the accessed animals and if the user wants. (NB: store all the accessed animals in the format "(animal Name) belongs to (Animal Species)")
+# Question-1: Design a system for classifying animals into different categories such as Mammal, Bird, Reptile, and Fish. Implement a base class Animal with common attributes like name and species, and then create subclass named Classification, inheriting from the Animal class. Print all the accessed animals and if the user wants. (NB: store all the accessed animals in the format "(animal Name) belongs to (Animal Species)")
 
 Animal_info = []
 
